@@ -7,11 +7,7 @@
 
 [中文 README](README-cn.md)
 
-<<<<<<< HEAD
-GoGoCode123457  is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
-=======
-GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
->>>>>>> 1177587592c80cb0fdbc4fb7fd93e8f7b8419ef0
+GoGoCode123 is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
 -   A jQuery-like API to select and transform AST.
 -   A Regex-like syntax to match and replace code.
