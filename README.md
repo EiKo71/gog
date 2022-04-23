@@ -7,7 +7,7 @@
 
 [中文 README](README-cn.md)
 
-GoGoCode hello  is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
+GoGoCode hello world is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
 -   A jQuery-like API to select and transform AST.
 -   A Regex-like syntax to match and replace code.
